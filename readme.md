@@ -71,5 +71,5 @@
         * Simpler and easier and **way more FUN to use**
         * Facilitates easier, faster prototyping
         * Design changes are a breeze
-> Always choose high quality tools, not only because they will help you do a job faster, easier, safer and better, but they will be a joy to use.
+> Always choose high quality tools, not only because they will help you do a job faster, easier, safer and better, but because they are a joy to use.
 
