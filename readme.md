@@ -12,12 +12,15 @@
 
 ## Learning to use DesignSpark Mechanical
 
-### [Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
+### [The "official" DesignSpark Mechanical Video Tutorials](https://www.youtube.com/watch?v=XyuzbKSCO90&list=PLv91f6GOku1_q3UNIORWX2ByS4g_1kknk)
+* Series of 11 video tutorials
+* Total time: 43 minutes
 
-### Video Tutorials
-* [The "official" DesignSpark Mechanical Video Tutorials](https://www.youtube.com/watch?v=XyuzbKSCO90&list=PLv91f6GOku1_q3UNIORWX2ByS4g_1kknk)
-    * Series of 11 video tutorials
-    * Total time: 43 minutes
+### [DSM Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
+
+### [DesignSpark Mechanical tutorials](https://www.rs-online.com/designspark/creating-your-mechanical-3d-design)
+
+### Other Video Tutorials
 * Collection of [47 video tutorials from RS DesignSpark](https://www.youtube.com/playlist?list=PLv91f6GOku1_WEeZMDmspEx0ZC-odebsR) (This is an older collection, with some up to 9 years old)
 * The MakerHive DesignSpark Mechanical - ZERO TO HERO [EPISODE 1](https://www.youtube.com/watch?v=WYcAZVgKWPA) shows some efficient *Best Practices*
 * Best Practice: Components & Assemblies [DesignSpark Mechanical - How to - Creating components](https://www.youtube.com/watch?v=DBfSRpKoZYo)
@@ -26,6 +29,14 @@
     * Produced by [Fabrication Planet Channel](https://www.youtube.com/@fabricationplanet)
     * The entire series of [All 11 videos](https://www.youtube.com/watch?v=WwM3VeYQp9I&list=PLYosAvMmVaJJJytCw-l6gik-_w6bY9B5Y)
 * Intricacies of the Move Tool [Translate and rotate items in SpaceClaim using Move tool](https://discoveryforum.ansys.com/t/18pkh6/translate-and-rotate-items-in-spaceclaim-using-move-tool)
+* Move a component so that its face is in alignment to another face [DesignSpark Mechanical - How to Align Object Up To](https://www.youtube.com/watch?v=sLYYv_BHJUo)
+
+### To make Detailed Drawings:
+* Start by **right clicking a component** (part or assembly) in the assembly tree
+    * Select *Open Component*
+    * Click *File* -> *New* -> *Drawing Sheet*
+* Watch [Detailing Tutorial](https://www.youtube.com/watch?v=fd5MbU-f2tk) for all the detailed instructions
+
 ----------------------------------------------------
 ## Appendix
 ### CAD kernel Primer
@@ -37,7 +48,7 @@
             * modifying parameters used at various steps, or
             * re-ordering the steps or
             * both.
-        * Almost all CAD applications use a history based modeling kernel.
+        * Pretty much **all** CAD applications in use today have a history- based modeling kernel.
     2. **Dynamic** (sometimes called **Direct**) modeling kernel is more **sophisticated**
         * It keeps track of the *resulting shape* of each solid body, irrespective of the steps taken to arrive at this result.
         * To enable the user to edit shapes, the modeling kernel must be much more sophisticated.
@@ -45,11 +56,11 @@
             * But the benefit is a greatly improved user experience.
             * The user is able to modify parts without getting bogged down in the details of all the steps that went into the part's creation.
             * The kernel takes care of all those details by recalculating all the *edges* where the modified face intersects any adjacent faces, replacing the original shape with the edited shape.
-        * To my knowledge, only 2 dynamic modeling CAD kernels exist.
-            1. [SolidDesigner](https://www.hpl.hp.com/hpjournal/95oct/oct95a1.pdf), initially developed around 1990 by Hewlett-Packard. HP had an in-house project team located in Sindelfingen, Germany whose goal was to develop a dynamic modeling kernel for a new and improved CAD application to be used by HP design engineers. Initially, this CAD application was known as HP PE/ME30. HP continued to develop it and by 1995, they began to market it as [SolidDesigner](https://www.hpl.hp.com/hpjournal/95oct/oct95a1.pdf), the world's first (and only) Dynamic Modeling CAD application.
+        * By contrast, there are very few CAD applications that use a dynamic modeling CAD kernel
+            1. Hewlett-Packard ME30 was the first. According to [The CAD Insider](https://www.thecadinsider.com/2007/10/cocreate-follow.html), ME30 dates back to the 1980s when HP developed its own CAD system for use by its own engineeers. Their engineers wanted a CAD application that was easier and more intuitive to use. The engineers **loved** it so much that HP began to make it available outside HP as ME10 (for 2D) and ME30 (for 3D). By 1995, the name was changed to [SolidDesigner](https://www.hpl.hp.com/hpjournal/95oct/oct95a1.pdf), the world's first Dynamic Modeling CAD application.
                 * Spun off as CoCreate (in 2000), then bought by PTC (in 2007). Now sold as [Creo Elements/Direct Modeling](https://www.ptc.com/en/products/creo/elements-direct)
-                    * PTC has a **free version** called [Creo Elements/Direct Modeling Express](https://www.ptc.com/en/products/creo/elements-direct/modeling-express), intended to give the user a taste of *how it works* but with [limited fuctionality](https://www.ptc.com/-/media/Files/PDFs/CAD/Creo/37318-CED-Topic-Sheet-assets-1.pdf):
-                        * Will hadle assemblies up to a maximum of 60 unique parts
+                    * PTC offers a **free version** called [Creo Elements/Direct Modeling Express](https://www.ptc.com/en/products/creo/elements-direct/modeling-express), intended to give the user a taste of *how it works* but with [restricted fuctionality](https://www.ptc.com/-/media/Files/PDFs/CAD/Creo/37318-CED-Topic-Sheet-assets-1.pdf):
+                        * Will handle assemblies up to a maximum of 60 unique parts
                         * Can load STEP files, but cannot save in STEP format
 
             2. [SpaceClaim](https://en.wikipedia.org/wiki/SpaceClaim), initially introduced in 2007
@@ -87,4 +98,4 @@
 * Toward the end of the SpaceClaim video [Basics of components & Assemblies](https://discoveryforum.ansys.com/t/h4pkhk/understanding-structure-tree-in-spaceclaim) they show how components behave if they are *copied* versus if they are *shared*. But SpaceClaim doesn't use the same terminology. Instead, they explain that it is a *best practice* when copying, to not copy a solid directly, but instead, to copy the component which contains it. This way, the copied solid will be linked to the original so that when one is modified, the other is also modified. (In other words, they are *shared*.) If you prefer to *break* that shared relationship, you can right-click on the newly copied component and then click *Source* then *Make independent*.
 
 * Best practice in SpaceClaim is to treat assemblies the same way. Copying the assembly creates what is effectively a *shared* instance of the original assembly. Any change in one assembly (such as a moved component) would occur in the other assembly. If you want to break the shared relationship, you do it the same way: right click the newly copied assembly, then click *Source* then *Make independent*. But be aware that this is a **deep copy**, meaning that every last component and subassembly loses its shared relationship with the original. That's probably not what you want to do.
-    * There is a small (but annoying) issue when making a shared copy of an assembly in SpaceClaim. Say you have an assembly on the left and you want to have an identical assembly on the right. Well, you can't give them different names. So if you want them to show up in the parts list as *assy-left* and *assy-right*, then you have to create two new parent components with those names and then drag and drop the respective assemblies into them.
+    * There is a small (but annoying) issue when making a shared copy of an assembly in DesignSpark Mechanical. Say you have an assembly on the left and you want to have an identical (shared) assembly on the right. Well, you can't give them different names. If you want them to show up in the assembly tree as *assy-left* and *assy-right*, then you have to create two new parent components with those names and then drag and drop the respective assemblies into them.
