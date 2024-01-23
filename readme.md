@@ -10,11 +10,13 @@
 * Downloaded & installed on Windows 10
 * This [10-minute "Gee Whiz" video](https://www.youtube.com/watch?v=ZXgMY3-hlgs) (by a former Solid Works user) showcases some of the amazing power of DS Mechanical
 
-## [Learning to use DesignSpark Mechanical](docs/learning.md)
+## My notes on [Learning to use DSM](docs/learning.md)
 
 ## What is it exactly that makes DSM such an obvious and compelling choice?
-* Reason #1: It has a sophisticated **Direct Modeling** kernel, allowing it to be extremely easy to learn and easy to use.
+* Reason #1: It uses a sophisticated **Direct Modeling** kernel, allowing it to be extremely easy to learn and easy to use.
     * This [CAD kernel Primer](docs/kernel-primer.md) should help you appreciate the importance of this.
  
 * Reason #2: It is **Very Affordable**
+
+> Always choose high quality tools, not only because they will help you do a job faster, easier, safer and better, but because they are a joy to use.
 

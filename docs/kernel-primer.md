@@ -14,7 +14,6 @@
         * Simpler and easier and **way more FUN to use**
         * Facilitates easier, faster prototyping
         * Design changes are a breeze
-> Always choose high quality tools, not only because they will help you do a job faster, easier, safer and better, but because they are a joy to use.
 
 ## Drilling down into the differences
 * A **History-based** (sometimes called **Parametric**) modeling kernel is relatively **primitive**
