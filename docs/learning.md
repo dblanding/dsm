@@ -28,7 +28,7 @@
 * Watch [Detailing Tutorial](https://www.youtube.com/watch?v=fd5MbU-f2tk) for all the detailed instructions
 
 ### How to Mate and Align Components
-* [Mate & Align tutorial](docs/mate&align.md)
+* [Mate & Align tutorial](mate-align.md)
 
 ### **Shared** versus **Copied** parts and assemblies
 * Different CAD vendors use different terminology, so this can get confusing. To keep it as simple as possible, I will restrict this discussion to the two Dynamic CAD applications:
