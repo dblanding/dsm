@@ -13,8 +13,7 @@
 ## My notes on [Learning to use DSM](docs/learning.md)
 
 ## What is it exactly that makes DSM such an obvious and compelling choice?
-* Reason #1: It uses a sophisticated **Direct Modeling** kernel, allowing it to be extremely easy to learn and easy to use.
-    * This [CAD kernel Primer](docs/kernel-primer.md) should help you appreciate the importance of this.
+* Reason #1: It uses a sophisticated **Direct Modeling** kernel, allowing it to be extremely easy to learn and easy to use. This [CAD kernel Primer](docs/kernel-primer.md) should help you appreciate the importance of this.
  
 * Reason #2: It is **Very Affordable**
 

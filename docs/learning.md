@@ -1,4 +1,4 @@
-## Learning to use DesignSpark Mechanical
+## Learning to use DesignSpark Mechanical (DSM) CAD
 
 ![Major Interface Elements](imgs/interface-elements.png)
 
@@ -6,20 +6,29 @@
 * Series of 11 video tutorials
 * Total time: 43 minutes
 
-### [DSM Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
+### DSM Online help
+* [DSM-v1 Online Help](https://help.spaceclaim.com/dsm/2012.1/en/index.htm) (This has a lot of helpful detailed information that is not in the v6 version.)
+* [DSM-v6 Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
+
 
 ### [DesignSpark Mechanical tutorials](https://www.rs-online.com/designspark/creating-your-mechanical-3d-design)
 
-### Other Video Tutorials
+### Other Video Tutorial Series
 * Collection of [47 video tutorials from RS DesignSpark](https://www.youtube.com/playlist?list=PLv91f6GOku1_WEeZMDmspEx0ZC-odebsR) (This is an older collection, with some up to 9 years old)
+* A [Series of 11 Tutorials](https://www.youtube.com/watch?v=WwM3VeYQp9I&list=PLYosAvMmVaJJJytCw-l6gik-_w6bY9B5Y) produced by [Fabrication Planet Channel](https://www.youtube.com/@fabricationplanet)
+
+### Tutorials related to Components & Assemblies Best Practices
 * The MakerHive DesignSpark Mechanical - ZERO TO HERO [EPISODE 1](https://www.youtube.com/watch?v=WYcAZVgKWPA) shows some efficient *Best Practices*
 * Best Practice: Components & Assemblies [DesignSpark Mechanical - How to - Creating components](https://www.youtube.com/watch?v=DBfSRpKoZYo)
 * Basics of components & Assemblies. Also: copies vs. Instances [Understanding structure tree in SpaceClaim](https://discoveryforum.ansys.com/t/h4pkhk/understanding-structure-tree-in-spaceclaim)
 * [The Structure Tree Explained (DSM06)](https://www.youtube.com/watch?v=5ynwr-laInM) (one in a series) Explains structure tree in detail
-    * Produced by [Fabrication Planet Channel](https://www.youtube.com/@fabricationplanet)
-    * The entire series of [All 11 videos](https://www.youtube.com/watch?v=WwM3VeYQp9I&list=PLYosAvMmVaJJJytCw-l6gik-_w6bY9B5Y)
+
+### Tutorials related to the Move Tool
+
+* [Moving](https://help.spaceclaim.com/dsm/2012.1/it/Moving.htm) (from 2012) but lots of excellent detailed info
 * Intricacies of the Move Tool [Translate and rotate items in SpaceClaim using Move tool](https://discoveryforum.ansys.com/t/18pkh6/translate-and-rotate-items-in-spaceclaim-using-move-tool)
 * Move a component so that its face is in alignment to another face [DesignSpark Mechanical - How to Align Object Up To](https://www.youtube.com/watch?v=sLYYv_BHJUo)
+* [Mate & Align tutorial](mate-align.md)
 
 ### How To make Detailed Drawings:
 * Start by **right clicking a component** (part or assembly) in the assembly tree
@@ -27,10 +36,7 @@
     * Click *File* -> *New* -> *Drawing Sheet*
 * Watch [Detailing Tutorial](https://www.youtube.com/watch?v=fd5MbU-f2tk) for all the detailed instructions
 
-### How to Mate and Align Components
-* [Mate & Align tutorial](mate-align.md)
-
-### **Shared** versus **Copied** parts and assemblies
+### **Shared** versus **Copied** parts and assemblies: Why it's important...
 * Different CAD vendors use different terminology, so this can get confusing. To keep it as simple as possible, I will restrict this discussion to the two Dynamic CAD applications:
     1. SolidDesigner (PTC Creo Elements Direct)
     2. SpaceClaim (DesignSpark Mechanical)
