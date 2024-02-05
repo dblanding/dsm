@@ -12,3 +12,7 @@
 * As it turns out, it can still be done in **DesignSpark Mechanical**, but it's not well documented.
 * You have to use the **Move Tool** and a few of its **Tool Guides**.
 * A [simple example](mate-align-dsm.md) shows how to do it.
+* 
+
+https://github.com/dblanding/dsm/assets/53412304/5fbd6920-753c-47be-b1f5-77d21bb9062d
+
