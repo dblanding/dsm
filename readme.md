@@ -7,7 +7,7 @@
 * Signed up for 7-day free trial of CREATOR Plan ($12/mo) 
 * Registered and created an account
     * Used my email as username
-* Downloaded & installed on Windows 10
+* [Downloaded](https://www.rs-online.com/designspark/mechanical-download-and-installation) & installed on Windows 10
 * This [10-minute "Gee Whiz" video](https://www.youtube.com/watch?v=ZXgMY3-hlgs) (by a former Solid Works user) showcases some of the amazing power of DS Mechanical
 
 ## My notes on [Learning to use DSM](docs/learning.md)
