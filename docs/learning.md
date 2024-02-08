@@ -4,7 +4,7 @@
 
 ### **SpaceClaim** tutorials
 * Because DesignSpark Mechanical is based on Ansys SpaceClaim (but with reduced functionality) the SpaceClaim tutorials are often completely applicable to DSM.
-* I strongly recommend starting with these tutorials because
+* These tutorials can be very helpful when getting started because
     * They are of high quality, use accurate terminology and are well produced.
     * Their consistent use of accurate terminology facilitates learning of CAD concepts
     * For example, this tutorial [Creating Geometry Using ANSYS SpaceClaim](https://www.youtube.com/watch?v=S0j_vuBPi-I) shows how to make a pipe with an elbow bend. (You can ignore the end of the video where they make an interior solid which is used for CFD analysis.)
