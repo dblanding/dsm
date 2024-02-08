@@ -2,33 +2,38 @@
 
 ![Major Interface Elements](imgs/interface-elements.png)
 
-### [The "official" DesignSpark Mechanical Video Tutorials](https://www.youtube.com/watch?v=XyuzbKSCO90&list=PLv91f6GOku1_q3UNIORWX2ByS4g_1kknk)
-* Series of 11 video tutorials
-* Total time: 43 minutes
+### **SpaceClaim** tutorials
+* Because DesignSpark Mechanical is based on Ansys SpaceClaim (but with reduced functionality) the SpaceClaim tutorials are often completely applicable to DSM.
+* I strongly recommend starting with these tutorials because
+    * They are of high quality, use accurate terminology and are well produced.
+    * Their consistent use of accurate terminology facilitates learning of CAD concepts
+    * For example, this tutorial [Creating Geometry Using ANSYS SpaceClaim](https://www.youtube.com/watch?v=S0j_vuBPi-I) shows how to make a pipe with an elbow bend. (You can ignore the end of the video where they make an interior solid which is used for CFD analysis.)
+* Series: [Discovery SpaceClaim: Getting Started Tutorials](https://discoveryforum.ansys.com/t/q5j849/discovery-spaceclaim-getting-started-tutorials) including: 
+    * Intricacies of the Move Tool [Translate and rotate items in SpaceClaim using Move tool](https://discoveryforum.ansys.com/t/18pkh6/translate-and-rotate-items-in-spaceclaim-using-move-tool)
+    * Basics of components & Assemblies. Also: copies vs. Instances [Understanding structure tree in SpaceClaim](https://discoveryforum.ansys.com/t/h4pkhk/understanding-structure-tree-in-spaceclaim)
 
-### DSM Online help
-* [DSM-v1 Online Help](https://help.spaceclaim.com/dsm/2012.1/en/index.htm) (This has a lot of helpful detailed information that is not in the v6 version.)
-* [DSM-v6 Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
+### Official **DSM** tutorials
 
-
-### [DesignSpark Mechanical tutorials](https://www.rs-online.com/designspark/creating-your-mechanical-3d-design)
-
-### Other Video Tutorial Series
+* [*Getting Started* series](https://www.youtube.com/watch?v=XyuzbKSCO90&list=PLv91f6GOku1_q3UNIORWX2ByS4g_1kknk)
+    * Series of 11 video tutorials
+    * Total time: 43 minutes
+* [Specific (by topic) tutorials](https://www.rs-online.com/designspark/creating-your-mechanical-3d-design)
+* DSM Online help
+    * [DSM-v1 Online Help](https://help.spaceclaim.com/dsm/2012.1/en/index.htm) (This has a lot of helpful detailed information that is not in the v6 version.)
+    * [DSM-v6 Online Help](https://help.spaceclaim.com/dsm/6.0/en/index.html)
 * Collection of [47 video tutorials from RS DesignSpark](https://www.youtube.com/playlist?list=PLv91f6GOku1_WEeZMDmspEx0ZC-odebsR) (This is an older collection, with some up to 9 years old)
-* A [Series of 11 Tutorials](https://www.youtube.com/watch?v=WwM3VeYQp9I&list=PLYosAvMmVaJJJytCw-l6gik-_w6bY9B5Y) produced by [Fabrication Planet Channel](https://www.youtube.com/@fabricationplanet)
 
-### Tutorials related to Components & Assemblies Best Practices
+### Tutorials by the DSM Community of users
+* A [Series of 11 Tutorials](https://www.youtube.com/watch?v=WwM3VeYQp9I&list=PLYosAvMmVaJJJytCw-l6gik-_w6bY9B5Y) produced by [Fabrication Planet Channel](https://www.youtube.com/@fabricationplanet)
 * The MakerHive DesignSpark Mechanical - ZERO TO HERO [EPISODE 1](https://www.youtube.com/watch?v=WYcAZVgKWPA) shows some efficient *Best Practices*
 * Best Practice: Components & Assemblies [DesignSpark Mechanical - How to - Creating components](https://www.youtube.com/watch?v=DBfSRpKoZYo)
-* Basics of components & Assemblies. Also: copies vs. Instances [Understanding structure tree in SpaceClaim](https://discoveryforum.ansys.com/t/h4pkhk/understanding-structure-tree-in-spaceclaim)
 * [The Structure Tree Explained (DSM06)](https://www.youtube.com/watch?v=5ynwr-laInM) (one in a series) Explains structure tree in detail
 
 ### Tutorials related to the Move Tool
 
 * [Moving](https://help.spaceclaim.com/dsm/2012.1/it/Moving.htm) (from 2012) but lots of excellent detailed info
-* Intricacies of the Move Tool [Translate and rotate items in SpaceClaim using Move tool](https://discoveryforum.ansys.com/t/18pkh6/translate-and-rotate-items-in-spaceclaim-using-move-tool)
 * Move a component so that its face is in alignment to another face [DesignSpark Mechanical - How to Align Object Up To](https://www.youtube.com/watch?v=sLYYv_BHJUo)
-* [Mate & Align tutorial](mate-align.md)
+* [Mate & Align](mate-align.md)
 
 ### How To make Detailed Drawings:
 * Start by **right clicking a component** (part or assembly) in the assembly tree

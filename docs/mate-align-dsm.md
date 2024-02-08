@@ -14,7 +14,7 @@
 
 ![step1](imgs/step1.png)
 
-Next, click on the **blue translation arrow**. This causes the blue translation arrow to be selected. (The others get greyed out.) It also causes the **Orient to Object** tool to become enabled. (It was previously greyed out.) Click on the **Orient to Object** tool.
+Next, click on the **blue translation arrow**. This causes the blue translation arrow to be selected. (The others get greyed out.) It also causes the **Orient to Object** tool guide to become enabled. (It was previously greyed out.) Click on the **Orient to Object** tool guide.
 
 ![step2](imgs/step2.png)
 
@@ -22,26 +22,27 @@ Next, click on the **top face** of the **block**. This will cause the plate t
 
 ![step3](imgs/step3.png)
 
-Next, click on the **Anchor** tool then click on the **front face** of the **plate**. The blue translation arrow is still selected and that's what we want. The blue translation arrow is pointed along the surface normal of the plate's front face.
+Next, click on the **Anchor** tool guide then click on the **front face** of the **plate**. The blue translation arrow is still selected and that's what we want. The blue translation arrow is pointed along the surface normal of the plate's front face.
 
 ![step4](imgs/step4.png)
 
-Next, click on the **Orient to Object** tool then click on the **front face of the block**. As before, this causes the plate to move so that the direction of its blue translation arrow will become parallel to the surface normal vector of the face clicked on the block.
+Next, click on the **Orient to Object** tool guide then click on the **front face of the block**. As before, this causes the plate to move so that the direction of its blue translation arrow will become parallel to the surface normal vector of the face clicked on the block.
 
 ![step5](imgs/step5.png)
 
-OK, we have the plate oriented correctly. We just need to move it so that the center of the bottom of the hole is coincident with the center of the base of the post on the block. For this we will use **Move** again, but this time with the **Up To** tool. Right now, our Move tool has some of its DOF greyed out. We need a fresh move tool, with all DOF enabled. Click **Select** then click on **Move** again to get a fresh Move tool.
+OK, we have the plate oriented correctly. We just need to move it so that the center of the bottom of the hole is coincident with the center of the base of the post on the block. For this we will use **Move** tool again, but this time with the **Up To** tool guide. Right now, our Move tool has some of its DOF greyed out. We need a fresh move tool, with all DOF enabled. Click **Select** then click on **Move** again to get a fresh Move tool.
 
 ![step6](imgs/step6.png)
 
-Next click on the **Anchor** tool to move the anchor to the center of the bottom of the hole in the plate.
+Next click on the **Anchor** tool guide to move the anchor to the center of the bottom of the hole in the plate.
 
 ![step7](imgs/step7.png)
 
-The final step is to click on the **Up To** tool then click on the circle at the base of the post.
+The final step is to click on the **Up To** tool guide then click on the circle at the base of the post.
 
 ![step8](imgs/step8.png)
 
-That's it! We're done. Click **Select** to exit the Move operation.
+That's it! We're done. Click the **Select** tool to exit the Move operation. (Alternatively, you can hit the **Esc** key on the keyboard.)
+
 Now you can import components and assemblies into your design and put them right where you want them.
 
