@@ -47,8 +47,9 @@
 
 * A third CAD system based on a dynamic modeling kernel, [SpaceClaim](https://en.wikipedia.org/wiki/SpaceClaim), was initially introduced in 2007
     * Purchased by Ansys in 2014
-        * Still available within the Ansys suite of engineering simulation tools
-        * Licensed to RS Components and made available as [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software), a stand-alone CAD product
+        * [Ansys SpaceClaim](https://www.ansys.com/products/3d-design/ansys-spaceclaim) is available for free trial but I didn't download it and try it.
+        * Also available as part of a [Free Ansys Student package](https://www.ansys.com/academic/students). I downloaded & installed [Ansys Student 2024 R1](https://www.ansys.com/academic/students/ansys-student). It is **Huge** requiring 88 GB Disk space. Once installed, I discovered that Cad designs cannot be saved in STEP format, only in native `.scdoc` format.
+        * Licensed to RS Components and made available as [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software), a stand-alone CAD product which installs in < 3GB of disk space.
         * Starting in 2023, with the release of version 6, DesignSpark Mechanical was made available with a choice of 2 subscription plans:
             * *Explorer* (free) does not allow load/save in STEP format
             * *Creator* ($12/mo) allows loading/saving in STEP format
