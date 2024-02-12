@@ -11,8 +11,9 @@
 * There is a [video tutorial](https://www.youtube.com/watch?v=7yrhunri-HE) showing how it's done in **SpaceClaim**. It looks like fun. But unfortunately, when SpaceClaim collaborated with RS to come up with DesignSpark Mechanical, they didn't include that functionality in DSM.
 * But, all is not lost. As it turns out, it can still be done in DSM, it's just not well documented.
 * You have to use the **Move Tool** and a few of its **Tool Guides**.
-* This [simple example](mate-align-dsm.md) shows how to do it, step by step.
-* I also show it in this video:
+* I show a step by step example of how to do it in [this article](https://www.rs-online.com/designspark/designspark-mechanical-how-to-align-mate-components).
+* In case that link doesn't work, you can also see this [simple example](mate-align-dsm.md)
+* And here it is demonstrated in a 1-minute video:
 
 https://github.com/dblanding/dsm/assets/53412304/5fbd6920-753c-47be-b1f5-77d21bb9062d
 
